@@ -1,0 +1,7 @@
+body{
+    user-select: none;
+}
+.selected{
+    font-weight: bolder;
+    background-color: bisque;
+}
